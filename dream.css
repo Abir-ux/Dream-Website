@@ -1,0 +1,79 @@
+/* c*/
+/*font-family: 'Nunito', sans-serif;*/
+
+.nav{
+    width: 60px;
+}
+.home{
+    font-family: 'Balsamiq Sans', cursive;
+}
+#carousel{
+    font-family: 'Nunito', sans-serif;
+
+}
+#carousel1{
+    font-family: 'Nunito', sans-serif;
+
+}
+#carousel2{
+    font-family: 'Nunito', sans-serif;
+
+}
+.orange{
+    background-color: rgba(135, 206, 250, 0.438);
+    height: 550px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.377);
+}
+.aa1{
+    width: 400px;
+    border-radius: 12px;
+    border: none;
+    box-shadow: 5px 5px 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contact{
+    background-color: rgba(135, 206, 250, 0.849);
+    height: 300px;
+    padding-left: 360px;
+    padding-top: 70px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.424);
+    
+    
+}
+
+#prog{
+    padding-left: 90px;
+}
+
+
+
+
+footer{
+    text-align: center;
+}
+.btn{
+    margin-left: 50px;
+}
+.in{
+    margin-left: 35px;
+    border:none;
+    border-radius: 6px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.555);
+   
+   
+}
+#h2h{
+    font-family: 'Balsamiq Sans', cursive;
+    text-align: center;
+
+}
+.web{
+    color: white;
+}
